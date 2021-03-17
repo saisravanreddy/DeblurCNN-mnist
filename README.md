@@ -43,7 +43,7 @@ mnist_deblurring
 ## How to use this code
 1. clone this repository
 ```
-git clone https://github.com/saisravanreddy/DeblurGAN-mnist && cd DeblurGAN-mnist
+git clone https://github.com/saisravanreddy/DeblurCNN-mnist && cd DeblurCNN-mnist
 ```
 2. Create a virtualenv (optional but recommended)
 ```
